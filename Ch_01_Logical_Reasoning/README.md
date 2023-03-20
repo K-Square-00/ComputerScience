@@ -1,15 +1,14 @@
 # Problem Set 
 
 ## Question 001 (*)
-Which of the following option(s) is/are proposition(s)?
-<br /> a) 1 + 1 = 2
-<br /> b) What is your name?
-<br /> c) 1 + 1 = 3
-<br /> d) The sum of any two positive integers is always even
-<br /> e) This sentence is False.
+Translate below statement in symbolic form:
+<br /> i: Inflation is rising 
+<br /> m: median household income is stable
+
+<br /> a) Inflation is rising but median household income is stable.
+<br /> b) Neither is inflation rising nor is  median household income is stable
 
 
-## Question 002 (*)
-What is proof?
-<br /> Proof is a method of ascertaining the truth.
-
+<br /> Solution: 
+<br /> a) i $\land$ m 
+<br /> b) $\neg i$  $\land$ $\neg i$ m 
