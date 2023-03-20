@@ -8,10 +8,14 @@ Translate below statement in symbolic form:
 <br /> a) Inflation is rising but median household income is stable.
 <br /> b) Neither is inflation rising nor is  median household income is stable
 
-
-<br /> Solution: 
+<details>
+  <summary>Solution:</summary>
+  
 <br /> a) $i \land m$ 
 <br /> b) $\neg i \land \neg m$ 
+
+</details>
+
 
 ## Question 002 (*)
 
