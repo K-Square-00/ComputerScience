@@ -35,16 +35,16 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 
-<br /> a) $ -2 \leq x < 8$
-<br /> b) $ x < -3> or x > 9$
-<br /> c) $ 8 > x > 1$
+<br /> a) $-2 \leq x < 8$
+<br /> b) $x < -3> or x > 9$
+<br /> c) $8 > x > 1$
 
 <details>
   <summary>Solution:</summary>
 
 
-<br /> a) $ x < -2 or x \geq 8$
-<br /> b) $ -3 \leq x \eq 9$
-<br /> c) $ 8 \leq x or  x \leq 1$
+<br /> a) $x < -2 or x \geq 8$
+<br /> b) $-3 \leq x \eq 9$
+<br /> c) $8 \leq x or  x \leq 1$
 </details>
 
