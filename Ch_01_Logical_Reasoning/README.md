@@ -10,5 +10,5 @@ Translate below statement in symbolic form:
 
 
 <br /> Solution: 
-<br /> a) i $\land$ m 
-<br /> b) $\neg i$  $\land$ $\neg i$ m 
+<br /> a) $i \land m$ 
+<br /> b) $\neg i \land \neg m$ 
