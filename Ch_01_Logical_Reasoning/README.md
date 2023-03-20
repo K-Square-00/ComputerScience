@@ -1,6 +1,6 @@
 # Problem Set 
 
-## Question 001 (*)
+### Question 001 (*)
 Translate below statement in symbolic form:
 <br /> i: Inflation is rising 
 <br /> m: median household income is stable
@@ -17,7 +17,7 @@ Translate below statement in symbolic form:
 </details>
 
 
-## Question 002 (*)
+### Question 002 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a)	Andy is handsome and Bob is smart.
