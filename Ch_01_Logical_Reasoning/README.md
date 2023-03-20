@@ -23,7 +23,10 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 <br /> a)	Andy is handsome and Bob is smart.
 <br /> b)	The exam is hard or Cindy is not well prepared.
 
-<br /> Solution: 
+<details>
+  <summary>Solution:</summary>
+  
 <br /> a) Andy is not handsome or Bob is not smart.
 <br /> b) The exam is not hard and Cindy is  well prepared.
 
+</details>
