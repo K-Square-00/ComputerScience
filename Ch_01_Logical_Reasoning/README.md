@@ -36,7 +36,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 Apply De Morgan’s laws to write the negation of below statement(s): 
 
 <br /> a) $-2 \leq x < 8$
-<br /> b) $x < -3> or x > 9$
+<br /> b) $x < -3 or\ x > 9$
 <br /> c) $8 > x > 1$
 
 <details>
