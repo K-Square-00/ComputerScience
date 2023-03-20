@@ -1,6 +1,6 @@
 # Problem Set 
 
-### 1. Question 001 (*)
+### Question 001 (*)
 Translate below statement in symbolic form:
 <br /> i: Inflation is rising 
 <br /> m: median household income is stable
@@ -17,7 +17,7 @@ Translate below statement in symbolic form:
 </details>
 
 
-### 1. Question 002 (*)
+### Question 002 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a)	Andy is handsome and Bob is smart.
@@ -30,3 +30,21 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 <br /> b) The exam is not hard and Cindy is  well prepared.
 
 </details>
+
+### Question 003 (*)
+
+Apply De Morgan’s laws to write the negation of below statement(s): 
+
+<br /> a) $ -2 \leq x < 8$
+<br /> b) $ x < -3> or x > 9$
+<br /> c) $ 8 > x > 1$
+
+<details>
+  <summary>Solution:</summary>
+
+
+<br /> a) $ x < -2 or x \geq 8$
+<br /> b) $ -3 \leq x \eq 9$
+<br /> c) $ 8 \leq x or  x \leq 1$
+</details>
+
