@@ -43,7 +43,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
   <summary>Solution:</summary>
 
 
-<br /> a) $x < -2 or x \geq 8$
+<br /> a) $x < -2 or\ x \geq 8$
 <br /> b) $-3 \leq x \eq 9$
 <br /> c) $8 \leq x or  x \leq 1$
 </details>
