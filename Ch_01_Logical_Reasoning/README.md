@@ -55,8 +55,8 @@ Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 <details>
   <summary>Solution/Hint:</summary>
 
-<br /> a) $x < -2\ or\ x \geq 8$
-<br /> b) $-3 \leq x \leq 9$
-<br /> c) $8 \leq x\ or\  x \leq 1$
+<br /> 
+<br />
+<br /> 
 </details>
 
