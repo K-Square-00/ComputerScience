@@ -48,9 +48,6 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 ### Question ZKK_01_004 (*)
 
 Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
-<br /> a) $-2 \leq x < 8$
-<br /> b) $x < -3\ or\ x > 9$
-<br /> c) $8 > x > 1$
 
 <details>
   <summary>Solution/Hint:</summary>
