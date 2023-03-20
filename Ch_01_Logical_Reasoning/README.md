@@ -57,3 +57,17 @@ Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 <br /> 
 </details>
 
+##### Question ZKK_01_005 (*)
+
+Convert below statements into "if ... then ..." format:
+<br /> Adam will fail Discrete Math if he didn't study hard. 
+<br /> Keep quite or Bob will be upset.
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br /> 
+<br />
+<br /> 
+</details>
