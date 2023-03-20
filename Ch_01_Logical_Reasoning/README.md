@@ -6,7 +6,7 @@ Translate below statement in symbolic form:
 <br /> m: median household income is stable
 
 <br /> a) Inflation is rising but median household income is stable.
-<br /> b) Neither is inflation rising nor is  median household income is stable
+<br /> b) Neither is inflation rising nor is  median household income stable.
 
 <details>
   <summary>Solution:</summary>
