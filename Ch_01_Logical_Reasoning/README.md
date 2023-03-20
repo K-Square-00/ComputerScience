@@ -1,6 +1,6 @@
 # Problem Set 
 
-### Question ZKK_01_001 (*)
+##### Question ZKK_01_001 (*)
 Translate below statement in symbolic form. $i$: Inflation is rising. $m$: median household income is stable
 <br /> a) Inflation is rising but median household income is stable.
 <br /> b) Neither is inflation rising nor is  median household income stable.
@@ -14,7 +14,7 @@ Translate below statement in symbolic form. $i$: Inflation is rising. $m$: media
 </details>
 
 
-### Question ZKK_01_002 (*)
+##### Question ZKK_01_002 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) Andy is handsome and Bob is smart.
@@ -28,7 +28,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 </details>
 
-### Question ZKK_01_003 (*)
+##### Question ZKK_01_003 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) $-2 \leq x < 8$
@@ -45,7 +45,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 
 
-### Question ZKK_01_004 (*)
+##### Question ZKK_01_004 (*)
 
 Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 
