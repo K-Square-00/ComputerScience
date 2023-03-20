@@ -7,6 +7,7 @@ Translate below statement in symbolic form. $i$: Inflation is rising. $m$: media
 
 <details>
   <summary>Solution:</summary>
+  
 <br /> a) $i \land m$ 
 <br /> b) $\neg i \land \neg m$ 
 
@@ -16,11 +17,12 @@ Translate below statement in symbolic form. $i$: Inflation is rising. $m$: media
 ### Question 002 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
-<br /> a)	Andy is handsome and Bob is smart.
-<br /> b)	The exam is hard or Cindy is not well prepared.
+<br /> a) Andy is handsome and Bob is smart.
+<br /> b) The exam is hard or Cindy is not well prepared.
 
 <details>
   <summary>Solution:</summary>
+
 <br /> a) Andy is not handsome or Bob is not smart.
 <br /> b) The exam is not hard and Cindy is  well prepared.
 
@@ -35,6 +37,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 <details>
   <summary>Solution:</summary>
+
 <br /> a) $x < -2\ or\ x \geq 8$
 <br /> b) $-3 \leq x \leq 9$
 <br /> c) $8 \leq x\ or\  x \leq 1$
