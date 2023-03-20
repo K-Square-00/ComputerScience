@@ -60,8 +60,8 @@ Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 ##### Question ZKK_01_005 (*)
 
 Convert below statements into "if ... then ..." format:
-<br /> Adam will fail Discrete Math if he didn't study hard. 
-<br /> Keep quite or Bob will be upset.
+<br /> a) Adam will fail Discrete Math if he didn't study hard. 
+<br /> b) Keep quite or Bob will be upset.
 
 
 <details>
