@@ -1,6 +1,6 @@
 # Problem Set 
 
-##### Question DSM_01_001 (*)
+##### Question DSM_01_00100 (*)
 Translate below statement in symbolic form. $i$: Inflation is rising. $m$: median household income is stable
 <br /> a) Inflation is rising but median household income is stable.
 <br /> b) Neither is inflation rising nor is  median household income stable.
@@ -14,7 +14,7 @@ Translate below statement in symbolic form. $i$: Inflation is rising. $m$: media
 </details>
 
 
-##### Question DSM_01_002 (*)
+##### Question DSM_01_00200 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) Andy is handsome and Bob is smart.
@@ -28,7 +28,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 </details>
 
-##### Question DSM_01_003 (*)
+##### Question DSM_01_00300 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) $-2 \leq x < 8$
@@ -45,7 +45,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 
 
-##### Question DSM_01_004 (*)
+##### Question DSM_01_00400 (*)
 
 Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 
@@ -57,7 +57,7 @@ Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 <br /> 
 </details>
 
-##### Question DSM_01_005 (*)
+##### Question DSM_01_00500 (*)
 
 Convert below statements into "if ... then ..." format:
 <br /> a) Adam will fail Discrete Math if he didn't study hard. 
@@ -72,7 +72,7 @@ Convert below statements into "if ... then ..." format:
 <br /> 
 </details>
 
-##### Question DSM_01_006 (*)
+##### Question DSM_01_00600 (*)
 
 Verify below argument form:
 <br /> $\neg p \lor \neg q$
