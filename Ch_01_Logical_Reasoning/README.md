@@ -1,6 +1,6 @@
 # Problem Set 
 
-##### Question DSM_01_00100 (*)
+#### Question DSM_01_00100 (*)
 Translate below statement in symbolic form. $i$: Inflation is rising. $m$: median household income is stable
 <br /> a) Inflation is rising but median household income is stable.
 <br /> b) Neither is inflation rising nor is  median household income stable.
@@ -14,7 +14,7 @@ Translate below statement in symbolic form. $i$: Inflation is rising. $m$: media
 </details>
 
 
-##### Question DSM_01_00200 (*)
+#### Question DSM_01_00200 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) Andy is handsome and Bob is smart.
@@ -28,7 +28,7 @@ Apply De Morgan’s laws to write the negation of below statement(s):
 
 </details>
 
-##### Question DSM_01_00300 (*)
+#### Question DSM_01_00300 (*)
 
 Apply De Morgan’s laws to write the negation of below statement(s): 
 <br /> a) $-2 \leq x < 8$
@@ -89,7 +89,7 @@ Verify below argument form:
 </details>
 
 
-##### Question DSM_01_00700 (*)
+#### Question DSM_01_00700 (*)
 
 Determine whether the following argument is valid or invalid. Construct the truth table and explain why the truth table shows validity or invalidity.
   - If a undergraduate student is from Computer Science Program or from Information Systems Program, then he must take Discrete Mathematics Module.
