@@ -92,9 +92,9 @@ Verify below argument form:
 ##### Question DSM_01_00700 (*)
 
 Determine whether the following argument is valid or invalid. Construct the truth table and explain why the truth table shows validity or invalidity.
-<br /> If a undergraduate student is from Computer Science Program or from Information Systems Program, then he must take Discrete Mathematics Module.
-<br /> Shafiq must take Discrete Mathematics Module or he is from Information Systems Program.
-<br /> Therefore, Shafiq is from Computer Science Program or from Information Systems Program.
+  - If a undergraduate student is from Computer Science Program or from Information Systems Program, then he must take Discrete Mathematics Module.
+  - Bob must take Discrete Mathematics Module or he is from Information Systems Program.
+  - Therefore, Bob is from Computer Science Program or from Information Systems Program.
 
 
 
