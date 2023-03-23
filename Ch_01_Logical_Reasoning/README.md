@@ -117,7 +117,7 @@ Determine whether the following argument is valid or invalid. Construct the trut
 <br />  
 </details>
 
-### Question DSM_01_00x00 (*)
+### Question DSM_01_00xxx (*)
 
 
 
