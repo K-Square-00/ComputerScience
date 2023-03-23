@@ -103,3 +103,28 @@ Determine whether the following argument is valid or invalid. Construct the trut
 
 <br />  Invalid. Hints: using truth table
 </details>
+
+
+### Question DSM_01_00800 (*)
+
+
+
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_01_00x00 (*)
+
+
+
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
