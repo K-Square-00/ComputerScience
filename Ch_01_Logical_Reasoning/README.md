@@ -86,6 +86,8 @@ Verify below argument form:
   <summary>Solution/Hint:</summary>
 
 <br />  Invalid. Hints: using truth table
+<br />
+<br />
 </details>
 
 
@@ -102,13 +104,36 @@ Determine whether the following argument is valid or invalid. Construct the trut
   <summary>Solution/Hint:</summary>
 
 <br />  Invalid. Hints: using truth table
+<br />
+<br />
 </details>
 
 
 ### Question DSM_01_00800 (*)
 
+First provide the symbolic representation of below arguments. If the argument is valid, identify the rule of inference else state type of errors.
+
+<br /> a)	
+- If Andy solved this problem correctly, then Andy obtained the answer 2.
+- Andy obtained the answer 2.
+- ∴Andy solved this problem correctly.
+  
+<br /> b)
+- If this number is larger than 3, then its square is larger than 9.
+- This number is not larger than 3.
+- ∴The square of this number is not larger than 9.
 
 
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  Converse Error
+<br />
+<br />
+</details>
+
+### Question DSM_01_00xxx (*)
 
 
 <details>
@@ -117,10 +142,8 @@ Determine whether the following argument is valid or invalid. Construct the trut
 <br />  
 </details>
 
+
 ### Question DSM_01_00xxx (*)
-
-
-
 
 
 <details>
