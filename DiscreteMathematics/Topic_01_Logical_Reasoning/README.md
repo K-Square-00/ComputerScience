@@ -133,8 +133,29 @@ First provide the symbolic representation of below arguments. If the argument is
 <br />
 </details>
 
-### Question DSM_01_00xxx (*)
+### Question DSM_01_00900 (*)
 
+a set of premises and a conclusion are given. Use the valid argument forms to deduce the conclusion from the premises, giving a reason for each step. Assume all variables are statement variables.
+
+<br /> (a) $\neg (p \lor \neg q) \to r$
+<br /> (b) $\neg q \to s$
+<br /> (c) $\neg t$
+<br /> (d) $\neg p \lor t$
+<br /> (e) $\neg q \land r \to \neg s$
+<br /> (f) $\therefore \neg q$
+
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+
+### Question DSM_01_01000 (*)
+
+Write the converse, inverse, and contrapositive of “If SMU is Singapore’s richest university, then NUS or NTU is Singapore’s largest university.”
 
 <details>
   <summary>Solution/Hint:</summary>
