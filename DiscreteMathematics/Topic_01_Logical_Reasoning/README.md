@@ -164,6 +164,24 @@ Write the converse, inverse, and contrapositive of “If SMU is Singapore’s ri
 </details>
 
 
+
+### Question DSM_01_01100 (*)
+
+Show that below statements are false.
+- $\forall x \in R, x \le x^2$
+- $\forall a \in N^+, \forall b \in N^+, \frac{a}{b} \le a - b$
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+  
+Counter example:
+- $x=0.5$
+- $a = 4, b = 1$
+<br />  
+</details>
+
+
 ### Question DSM_01_00xxx (*)
 
 
