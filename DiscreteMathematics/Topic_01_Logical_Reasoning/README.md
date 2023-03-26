@@ -138,7 +138,7 @@ First provide the symbolic representation of below arguments. If the argument is
 a set of premises and a conclusion are given. Use the valid argument forms to deduce the conclusion from the premises, giving a reason for each step. Assume all variables are statement variables.
 
 <br /> (a) $\neg (p \land \neg q) \to r$
-<br /> (b) $ q \to s$
+<br /> (b) $q \to s$
 <br /> (c) $\neg t$
 <br /> (d) $\neg p \lor t$
 <br /> (e) $\neg q \land r \to \neg s$
