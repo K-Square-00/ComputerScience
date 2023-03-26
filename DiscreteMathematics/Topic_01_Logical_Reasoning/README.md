@@ -61,7 +61,7 @@ Verify: $(s \land r)\lor \neg( (\neg(s \lor \neg r)) \lor (s \lor r) )\equiv s$
 
 Convert below statements into "if ... then ..." format:
 <br /> a) Adam will fail Discrete Math if he didn't study hard. 
-<br /> b) Keep quite or Bob will be upset.
+<br /> b) Keep quiet or Bob will be upset.
 
 
 <details>
@@ -94,7 +94,7 @@ Verify below argument form:
 ### Question DSM_01_00700 (*)
 
 Determine whether the following argument is valid or invalid. Construct the truth table and explain why the truth table shows validity or invalidity.
-  - If a undergraduate student is from Computer Science Program or from Information Systems Program, then he must take Discrete Mathematics Module.
+  - If an undergraduate student is from Computer Science Program or from Information Systems Program, then he must take Discrete Mathematics Module.
   - Bob must take Discrete Mathematics Module or he is from Information Systems Program.
   - Therefore, Bob is from Computer Science Program or from Information Systems Program.
 
