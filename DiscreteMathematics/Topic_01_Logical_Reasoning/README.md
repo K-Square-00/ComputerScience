@@ -137,7 +137,7 @@ First provide the symbolic representation of below arguments. If the argument is
 
 a set of premises and a conclusion are given. Use the valid argument forms to deduce the conclusion from the premises, giving a reason for each step. Assume all variables are statement variables.
 
-<br /> (a) $\neg (p \lor \neg q) \to r$
+<br /> (a) $\neg (p \land \neg q) \to r$
 <br /> (b) $\neg q \to s$
 <br /> (c) $\neg t$
 <br /> (d) $\neg p \lor t$
@@ -174,7 +174,7 @@ Show that below statements are false.
 
 <details>
   <summary>Solution/Hint:</summary>
-  
+
 Counter example:
 - $x=0.5$
 - $a = 4, b = 1$
