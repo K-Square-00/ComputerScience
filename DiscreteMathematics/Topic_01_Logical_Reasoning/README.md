@@ -194,6 +194,22 @@ Let $F(a,b)$ be $a^3 - 1 > b$  verify below statements.
 <br /> False; True  
 </details>
 
+### Question DSM_01_13000 (*)
+
+What is the if-then form of below statements:
+-	Obtaining an annual performance rating of 3 in this Company is a sufficient condition for an employee to review his/her contract.
+-	An attendance rate greater than 80% is a necessary condition for passing this course.
+-	Two numbers are coprime only if their greatest common divisor (GCD) being 1.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+-	If an employee achieved an annual performance rating of 3 in this Company then his/her contract can be renewed.
+-	If a student passed this course then his/her attendance rate is greater than 80%.
+- If wwo numbers are coprime then their greatest common divisor (GCD) is 1.
+
+<br />  
+</details>
 
 ### Question DSM_01_00xxx (*)
 
