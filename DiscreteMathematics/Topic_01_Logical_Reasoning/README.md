@@ -181,6 +181,19 @@ Counter example:
 <br />  
 </details>
 
+### Question DSM_01_12000 (*)
+
+Let $F(a,b)$ be $a^3 - 1 > b$  verify below statements.
+- F(1, 0) 
+- F(3, 25)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br /> False; True  
+</details>
+
 
 ### Question DSM_01_00xxx (*)
 
