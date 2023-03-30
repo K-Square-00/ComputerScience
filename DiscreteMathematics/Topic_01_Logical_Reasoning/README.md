@@ -211,6 +211,21 @@ What is the if-then form of below statements:
 <br />  
 </details>
 
+### Question DSM_01_14000 (*)
+
+Based on the knowledge that the negation of a $\forall$ statement is a $\exists$ statement and that the negation of an if-then statement is an and statement to transform below the statements without using the word necessary or sufficient.    
+- A number is prime is not a necessary condition for this number is odd.
+- A student is smart is not a sufficient condition for the student to get A for Dsicrete Math.
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+  
+- There is a number that is odd but not prime.
+- There is a student who is smart but didn't get A for Dsicrete Math.
+<br />
+</details>
+
 ### Question DSM_01_00xxx (*)
 
 
