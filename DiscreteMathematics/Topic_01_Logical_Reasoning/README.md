@@ -226,6 +226,73 @@ Based on the knowledge that the negation of a $\forall$ statement is a $\exists$
 <br />
 </details>
 
+### Question DSM_01_001500 (*)
+
+A person claimed that: “I select among different burgers of McDonalds only if these burgers have the same lowest price.”  If there are two burgers of McDonalds have the same lowest price, will this person always choose between them? 
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+No. A statement is not logically equivalent to its converse.
+
+
+<br />  
+</details>
+
+### Question DSM_01_001600 (*)
+
+First use quantifiers and variables to represent the statements below. Then find the negation of each statement.
+-	Any integer equals zero minus some integer.
+-	ChatGPT can generate the correct answer to any question.
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+-	$\forall$ integer $a$ , $\exists$ integer $b$ such that $a = 0 - b$ ; 
+<br />  Negation: $\exists$ integer $a$ , $\forall$ integer $b$ such that $a \ne 0 - b$
+-	$\forall$ questions $q$ , ChatGPT can generate correct answer $a$ of $q$ 
+<br />  Negation: $\exists$  question $q$ , such that ChatGPT cannot generate correct answer $a$ of $q$
+
+<br />  
+</details>
+
+### Question DSM_01_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_01_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_01_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_01_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
 ### Question DSM_01_00xxx (*)
 
 
