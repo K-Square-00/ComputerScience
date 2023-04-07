@@ -259,10 +259,24 @@ First use quantifiers and variables to represent the statements below. Then find
 
 ### Question DSM_01_00xxx (*)
 
+Verify the validity of below statements:
+<br />  Part (a)
+
+- If the sum of two integers is odd, then at least one of them is odd.
+- Sum of two integers $a$ and $b$ are even.
+- ∴ $a + b$ is even.
+
+<br />  Part (b)
+
+- If number x is a positive integer, then number x – 1 is non-negative.
+- A particular number m-1 is non-negative.
+- ∴ m is positive integer.
+
 
 <details>
   <summary>Solution/Hint:</summary>
 
+Part a: Valid by Contrapositive Implication. Part b: Invalid; converse error
 <br />  
 </details>
 
