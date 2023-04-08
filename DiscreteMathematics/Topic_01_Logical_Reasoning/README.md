@@ -282,9 +282,25 @@ Part a: Valid by Contrapositive Implication. Part b: Invalid; converse error
 
 ### Question DSM_01_00xxx (*)
 
+Verify the validity of the statements below by drawing diagrams.
+<br />  Part (a)
+
+- No apple products are cheap.
+- No cheap products are popular.
+- ∴ No apple products are popular.
+
+
+<br />  Part (b)
+
+- All dogs have four legs.
+- Animals that can fly will not have four legs.
+- ∴ No dogs can fly.
+
 
 <details>
   <summary>Solution/Hint:</summary>
+
+Part a: Invalid. Part b: Valid; 
 
 <br />  
 </details>
