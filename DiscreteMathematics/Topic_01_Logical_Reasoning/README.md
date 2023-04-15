@@ -307,7 +307,7 @@ Part a: Invalid. Part b: Valid;
 
 ### Question DSM_02_00100 (*)
 
-Prove : There are integers x and y such that x >0 and y >0 and x/y is prime.
+Prove/Disprove:: There are integers x and y such that x >0 and y >0 and x/y is prime.
 
 <details>
   <summary>Solution/Hint:</summary>
@@ -317,11 +317,14 @@ x = 4, y = 2
 <br />  
 </details>
 
-### Question DSM_01_00xxx (*)
+### Question DSM_01_00200 (*)
 
+Prove/Disprove: There is a prime number that can be written as a sum of two other distinct prime numbers.
 
 <details>
   <summary>Solution/Hint:</summary>
+
+5 = 2 + 3
 
 <br />  
 </details>
