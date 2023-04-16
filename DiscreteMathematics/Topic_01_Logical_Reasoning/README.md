@@ -346,7 +346,7 @@ Negation: Exists real numbers $x$ and $y$ such that $x > y$ and  $x^2 <= y^2$
 
 ### Question DSM_02_00400 (*)
 
-For any integers a and b, if $a - b$ is even then $a^3-b^3$ is even.
+Prove for any integers a and b, if $a - b$ is even then $a^3-b^3$ is even.
 
 <details>
   <summary>Solution/Hint:</summary>
@@ -357,23 +357,32 @@ $a^3-b^3 = (a-b)(a^2+ab+b^2)$
 </details>
 
 
-### Question DSM_02_00xxx (*)
+### Question DSM_02_00500 (*)
+
+Prove the product of four consecutive integers plus one is a perfect square.
 
 
 <details>
   <summary>Solution/Hint:</summary>
 
+$(n-1)n(n+1)(n+1) + 1 = a^2$
+
 <br />  
 </details>
 
-### Question DSM_02_00xxx (*)
+### Question DSM_02_00700 (*)
 
+Prove for any integers w, x, y, and z, if z = -9x + 5y,  w|x and w|y then w|z.
 
 <details>
   <summary>Solution/Hint:</summary>
 
+$x = k_1w; y=k_2w; z =  -9k_1w + 5k_2w$
+
 <br />  
 </details>
+
+
 ### Question DSM_02_00xxx (*)
 
 
