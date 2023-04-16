@@ -280,7 +280,7 @@ Part a: Valid by Contrapositive Implication. Part b: Invalid; converse error
 <br />  
 </details>
 
-### Question DSM_01_00xxx (*)
+### Question DSM_01_001800 (*)
 
 Verify the validity of the statements below by drawing diagrams.
 <br />  Part (a)
@@ -317,7 +317,7 @@ x = 4, y = 2
 <br />  
 </details>
 
-### Question DSM_01_00200 (*)
+### Question DSM_02_00200 (*)
 
 Prove/Disprove: There is a prime number that can be written as a sum of two other distinct prime numbers.
 
@@ -329,7 +329,80 @@ Prove/Disprove: There is a prime number that can be written as a sum of two othe
 <br />  
 </details>
 
-### Question DSM_01_00xxx (*)
+### Question DSM_02_00300 (*)
+
+Disprove below statement via counterexample and provide the negation of the statement.
+<BR />" For any real numbers $x$ and $y$, if $x > y$ then $x^2> y^2$ "
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+Counterexample: $x = 1; y=-2$
+Negation: Exists real numbers $x$ and $y$ such that $x > y$ and  $x^2 <= y^2$
+
+<br />  
+</details>
+
+### Question DSM_02_00400 (*)
+
+For any integers a and b, if $a - b$ is even then $a^3-b^3$ is even.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+$a^3-b^3 = (a-b)(a^2+ab+b^2)$
+
+<br />  
+</details>
+
+
+### Question DSM_02_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_02_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+### Question DSM_02_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_02_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+
+### Question DSM_02_00xxx (*)
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+<br />  
+</details>
+
+### Question DSM_02_00xxx (*)
 
 
 <details>
