@@ -370,7 +370,7 @@ $(n-1)n(n+1)(n+1) + 1 = a^2$
 <br />  
 </details>
 
-### Question DSM_02_00700 (*)
+### Question DSM_02_00600 (*)
 
 Prove for any integers w, x, y, and z, if z = -9x + 5y,  w|x and w|y then w|z.
 
@@ -383,8 +383,21 @@ $x = k_1w; y=k_2w; z =  -9k_1w + 5k_2w$
 </details>
 
 
-### Question DSM_02_00xxx (*)
+### Question DSM_02_00700 (*)
 
+Prove if equation $ax^2+bx+c=0$ has a real root $x_1$ (a, b and c are rational numbers), then $x_1$ satisfies an equation of $nx^2+mx+k= 0$, where n,m and k are integers.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+A rational number $r = \frac{i}{j}$ while i and j are integers.
+
+<br />  
+</details>
+
+### Question DSM_02_00800 (*)
+
+Prove 5 divides any positive integer with last digit zero.
 
 <details>
   <summary>Solution/Hint:</summary>
@@ -392,21 +405,18 @@ $x = k_1w; y=k_2w; z =  -9k_1w + 5k_2w$
 <br />  
 </details>
 
-### Question DSM_02_00xxx (*)
+let integer a with last digit zero; then $a = 10b$ for some integer b.
+<br />  Therefore, 5|a
 
 
-<details>
-  <summary>Solution/Hint:</summary>
+### Question DSM_02_00900 (*)
 
-<br />  
-</details>
-
-
-### Question DSM_02_00xxx (*)
-
+Let integer n be the product of any four consecutive integers. Prove 8|n.
 
 <details>
   <summary>Solution/Hint:</summary>
+
+Hint: four cases for the first number: 4k, 4k+1,4k+2,4k+3
 
 <br />  
 </details>
