@@ -402,11 +402,12 @@ Prove 5 divides any positive integer with last digit zero.
 <details>
   <summary>Solution/Hint:</summary>
 
+let integer a with last digit zero; then $a = 10b$ for some integer b.
+<br />  Therefore, 5|a
+
 <br />  
 </details>
 
-let integer a with last digit zero; then $a = 10b$ for some integer b.
-<br />  Therefore, 5|a
 
 
 ### Question DSM_02_00900 (*)
