@@ -422,6 +422,93 @@ Hint: four cases for the first number: 4k, 4k+1,4k+2,4k+3
 <br />  
 </details>
 
+### Question DSM_02_00100 (*)
+
+Prove/Disprove for all integer n, $n^2+7$ is not divisible by 4. 
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+Disprove by counter example: n = 3
+
+<br />  
+</details>
+
+### Question DSM_02_00110 (*)
+
+Prove/Disprove for all integer n, $n^2+13$ is not divisible by 4. 
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+prove by two cases: n is even (2k) and n is odd (2k+1)
+
+<br />  
+</details>
+
+
+### Question DSM_02_00120 (**)
+
+Prove for all real numbers x and y, $|x-y|≥||x|-|y||$.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+Divide into two cases: <br />  
+Case 1: $|x-y|≥|x|-|y|$ <br />  
+Case 2: $|x-y|≥-(|x|-|y|)$ <br />  
+Then use Triangle Inequality  $|a+b|\le|a|+|b|$ to prove
+
+<br />  
+</details>
+
+
+### Question DSM_02_00130 (**)
+
+Prove for any integer n if n  > 11 then n can be represented as sum of two composite numbers.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+Prove by contradiction: <br />
+Suppose exists an integer n > 11 but cannot be represented as sum of two composite numbers. <br />
+Let $n = (n-4) +4 = (n-6)+6 = (n-8)+8$ then $(n-4),(n-6),(n-8)$ must be primes. <br />
+Hence, $(n-5)$ must be divisible by 3. <br /> 
+Let $(n-5)=3k$ then $(n-8) = 3(k-1)$ which is contracted with $(n-6)$ is prime.  <br />
+Done. 
+
+<br />  
+</details>
+
+
+### Question DSM_02_00140 (*)
+
+Prove or disprove: $\forall n \in N, n^2+n+41$ is a prime number.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+when  $n < 40, n^2+n+41$ is a prime number
+
+First counter example is n = 40; Obvious counter example is n = 41;
+
+This question is simple but illustrates the idea that only few samples does not jusitfy the proof.
+
+<br />  
+</details>
+
+### Question DSM_02_00150 (*)
+
+Let N= 2∙3∙5+1. What remainder is obtained when N is divided by 2, 3, 5.
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+$N = 2k + 1 = 3j+1=5m+1$ hence the remainder is 1 for all three cases above.
+
+<br />  
+</details>
+
 ### Question DSM_02_00xxx (*)
 
 
