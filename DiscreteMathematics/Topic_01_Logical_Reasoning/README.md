@@ -509,7 +509,25 @@ $N = 2k + 1 = 3j+1=5m+1$ hence the remainder is 1 for all three cases above.
 <br />  
 </details>
 
-### Question DSM_02_00xxx (*)
+
+
+### Question DSM_03_00100 (*)
+
+Work out the first three terms of the sequences of $a_n= \frac{n}{n+5}$  for every integer $n>1$
+
+
+<details>
+  <summary>Solution/Hint:</summary>
+
+$a_2= \frac{2}{7}$;$a_3= \frac{3}{8}$;$a_4= \frac{4}{9}$;
+
+
+<br />  
+</details>
+
+
+
+### Question DSM_XX_00xxx (*)
 
 
 <details>
